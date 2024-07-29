@@ -2,9 +2,6 @@
 
 ## 💫 Hi, I’m @Exianus, White Hacker & Security Engineer.
 
------------------------------
-- ### Webhacking, Mobile Hacking, Smart Contract Hacking, Cloud Security, Pwnable, Reversing, Forensic, IOT Security, Hardware Hacking, Pentesting, Game Security.
-  - #### & Web / Game (Unity) Development.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Exianus&theme=holi-theme)](https://git.io/streak-stats)
